@@ -9,11 +9,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-design.png)
+![](./design.png)
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Art-Gallery-Website/code
+- Live Site URL: https://tsimeonov.github.io/Dad-Jokes/
 
 ### Built with
 
