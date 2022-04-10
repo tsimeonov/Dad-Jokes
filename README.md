@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-design.png)
+![](./design.png)
 
 ### Links
 
