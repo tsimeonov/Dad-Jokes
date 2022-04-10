@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Art-Gallery-Website/code
+- Live Site URL: https://tsimeonov.github.io/Dad-Jokes/
 
 ### Built with
 
